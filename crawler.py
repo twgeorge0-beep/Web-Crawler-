@@ -1,4 +1,3 @@
-#Crawler made by @wavuy - Upgraded Version
 
 import requests 
 from bs4 import BeautifulSoup
